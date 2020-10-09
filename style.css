@@ -9,6 +9,12 @@
     background-color: #fafcc2;
     font-family: sans-serif;
   }
+ p{
+      color:#ff9249;
+      display: flex;
+      justify-content: space-around;
+    align-items: top;
+  }
   
   .score {
     color:#ff9249;
